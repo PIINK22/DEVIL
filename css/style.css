@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Lobster&family=Moon+Dance&family=Niramit:wght@200&family=Patrick+Hand&family=Rampart+One&family=Roboto+Mono:wght@300&family=Shadows+Into+Light&family=Sriracha&family=Thasadith:wght@700&family=Yuji+Syuku&family=Zen+Kurenaido&display=swap');
 
 body{
-    background:url("/assets/k3.jpeg");
+    background:url("../assets/k3.jpeg");
     background-size:cover;
     background-repeat:no-repeat;
     background-attachment:fixed;
