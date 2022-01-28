@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Lobster&family=Moon+Dance&family=Niramit:wght@200&family=Patrick+Hand&family=Rampart+One&family=Roboto+Mono:wght@300&family=Shadows+Into+Light&family=Sriracha&family=Thasadith:wght@700&family=Yuji+Syuku&family=Zen+Kurenaido&display=swap');
+
+body{
+    background:url("/assets/k3.jpeg");
+}
+
+
+.active{
+  color:rgb(255, 255, 255) !important;
+
+}
+
+h1{
+ 
+  color :rgb(9, 103, 190);
+  font-family: 'Single Day', cursive ;
+  font-size: 90px;
+  font-weight: bolder;
+}
+
+p{
+  color :rgb(125, 73, 36);
+  font-family: 'Patrick Hand', cursive;
+  font-size: 30px;
+}
+
+h2{
+  color :rgb(0, 0, 0);
+  font-family: 'Niramit', sans-serif;
+  font-size: 25px;
+  font-weight: bolder;
+ 
+}
+
+
+a{
+  color: rgb(0, 0, 0);
+  font-size: 25px;
+  font-family: 'Zen Kurenaido', sans-serif;
+  font-weight: bolder;
+
+}
+
+h3{
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+  font-family: 'Yuji Syuku', serif;
+}
+
+button{
+  font-family: 'Niramit', sans-serif;
+}
+
+input{
+  font-family: 'Niramit', sans-serif;
+}
